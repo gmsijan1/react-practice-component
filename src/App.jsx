@@ -1,7 +1,7 @@
-import Accordion from "./components/Accordion";
+import RandomColorRGB from "./components/Random-color-generator";
 
 function App() {
-  return <Accordion />;
+  return <RandomColorRGB />;
 }
 
 export default App;
