@@ -1,0 +1,32 @@
+.color-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.color-btn {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #ffffff;
+  color: #000;
+}
+
+.color-btn:hover {
+  background: #f0f0f0;
+}
+
+.color-value {
+  margin-top: 12px;
+  font-family: monospace;
+  font-size: 14px;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 6px 10px;
+  border-radius: 4px;
+}
