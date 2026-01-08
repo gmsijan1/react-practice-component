@@ -1,7 +1,7 @@
-import ImageSlider from "./components/Image-Slider";
+import LoadMore from "./components/Load-more";
 
 function App() {
-  return <ImageSlider />;
+  return <LoadMore />;
 }
 
 export default App;
