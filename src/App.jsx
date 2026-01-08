@@ -1,7 +1,7 @@
-import StarRating from "./components/Star-Rating";
+import ImageSlider from "./components/Image-Slider";
 
 function App() {
-  return <StarRating />;
+  return <ImageSlider />;
 }
 
 export default App;

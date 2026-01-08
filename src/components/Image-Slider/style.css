@@ -1,0 +1,52 @@
+/* Container */
+.slider-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 40px auto;
+  max-width: 850px;
+}
+
+/* Image wrapper */
+.slider-image-wrapper {
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Image */
+.slider-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.5s ease-in-out;
+}
+
+/* Buttons */
+.slider-buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.slider-btn {
+  padding: 8px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #0077ff;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.slider-btn:hover {
+  background-color: #005fcc;
+}
+
+/* Counter text */
+.slider-counter {
+  margin-top: 12px;
+  font-size: 16px;
+  color: #333;
+}
