@@ -1,7 +1,7 @@
-import LoadMore from "./components/Load-more";
+import ThemeSwitch from "./components/Theme-switch";
 
 function App() {
-  return <LoadMore />;
+  return <ThemeSwitch />;
 }
 
 export default App;
