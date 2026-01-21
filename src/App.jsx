@@ -1,4 +1,4 @@
-import Tabs from "./components/tabs";
+import Tabs from "./components/Tabs-temp";
 
 function App() {
   return <Tabs />;
