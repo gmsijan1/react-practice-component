@@ -1,7 +1,7 @@
-import Tabs from "./components/Tabs-temp";
+import Modal from "./components/Modal";
 
 function App() {
-  return <Tabs />;
+  return <Modal />;
 }
 
 export default App;
