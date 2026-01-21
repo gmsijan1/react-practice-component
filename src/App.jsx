@@ -1,7 +1,7 @@
-import ThemeSwitch from "./components/Theme-switch";
+import Tabs from "./components/tabs";
 
 function App() {
-  return <ThemeSwitch />;
+  return <Tabs />;
 }
 
 export default App;

@@ -19,7 +19,7 @@ const data = [
   },
 ];
 
-export default function App() {
+export default function Accordion() {
   const [openId, setOpenId] = useState(null);
 
   const toggleItem = (id) => {
