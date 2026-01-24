@@ -1,7 +1,7 @@
-import Modal from "./components/Modal";
+import SearchAutocomplete from "./components/Search-AutoComplete";
 
 function App() {
-  return <Modal />;
+  return <SearchAutocomplete />;
 }
 
 export default App;
