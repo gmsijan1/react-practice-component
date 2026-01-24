@@ -1,0 +1,33 @@
+.scroll-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.scroll-btn {
+  margin: 0 10px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.scroll-btn:hover {
+  background-color: #0056b3;
+}
+
+.scroll-content {
+  min-height: 200vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.scroll-content p {
+  margin: 50vh 0;
+}

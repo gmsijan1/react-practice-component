@@ -1,7 +1,7 @@
-import SearchAutocomplete from "./components/Search-AutoComplete";
+import ScrollTopBottom from "./components/ScrollTopBottom";
 
 function App() {
-  return <SearchAutocomplete />;
+  return <ScrollTopBottom />;
 }
 
 export default App;
