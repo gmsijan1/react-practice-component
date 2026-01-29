@@ -1,0 +1,14 @@
+.responsive-container {
+  padding: 40px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.responsive-container h1 {
+  margin-bottom: 20px;
+}
+
+.responsive-container p {
+  font-size: 18px;
+  margin: 5px 0;
+}

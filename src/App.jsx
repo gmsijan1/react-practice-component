@@ -1,8 +1,9 @@
 //import ScrollTopBottom from "./components/ScrollTopBottom";
-import ModalPopup from "./components/Click-Outside/modalPopup";
+//import ModalPopup from "./components/Click-Outside/modalPopup";
+import ResponsiveDemo from "./components/Responsive/ResponsiveDemo";
 
 function App() {
-  return <ModalPopup />;
+  return <ResponsiveDemo />;
 }
 
 export default App;
